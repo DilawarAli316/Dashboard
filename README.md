@@ -1,2 +1,2 @@
-# Dashboard
-Dashboard with User authentication and database integration
+# rashanWala
+Admin panel of rashan wala develop on React.js
